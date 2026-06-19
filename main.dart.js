@@ -57523,13 +57523,13 @@ case 1:return A.B(p.at(-1),r)}})
 return A.D($async$kj,r)},
 P6(){A.Mh(new A.Ma(this.r))
 this.c.ar(t.Cu).f.A6(B.GC)},
-S(a){var s,r,q=this,p="./assets/images/bg.jpg",o=null,n=A.UR(o,A.a9y(p,B.ip),o,o,0,o,o,o),m=A.UR(o,A.a9y(p,B.ip),o,o,o,0,o,o),l=A.m6(28),k=A.a9A(18,18),j=A.cx(a,o,t.w).w,i=A.cX(38,B.i.a1()>>>16&255,B.i.a1()>>>8&255,B.i.a1()&255),h=A.m6(28),g=A.a8l(A.cX(64,B.i.a1()>>>16&255,B.i.a1()>>>8&255,B.i.a1()&255)),f=A.Yx("\u1005\u102e\u1005\u102e \ud83d\udc97",A.apW().$2$fontSize$fontWeight(28,B.aG),o),e=A.cX(64,B.m.a1()>>>16&255,B.m.a1()>>>8&255,B.m.a1()&255),d=A.m6(16)
-d=A.a5n(A.Yx(q.r,B.Je,B.d4),B.vg,new A.eS(e,o,o,d,o,o,B.bA),o,o,B.y_,1/0)
-e=q.e
-s=e?B.yA:B.yz
-e=e?"Stop":"Speak"
+S(a){var s,r,q=this,p=null,o=A.UR(p,A.a9y("./cleaassets/images/bg.jpg",B.ip),p,p,0,p,p,p),n=A.UR(p,A.a9y("./assets/images/bg.jpg",B.ip),p,p,p,0,p,p),m=A.m6(28),l=A.a9A(18,18),k=A.cx(a,p,t.w).w,j=A.cX(38,B.i.a1()>>>16&255,B.i.a1()>>>8&255,B.i.a1()&255),i=A.m6(28),h=A.a8l(A.cX(64,B.i.a1()>>>16&255,B.i.a1()>>>8&255,B.i.a1()&255)),g=A.Yx("\u1005\u102e\u1005\u102e \ud83d\udc97",A.apW().$2$fontSize$fontWeight(28,B.aG),p),f=A.cX(64,B.m.a1()>>>16&255,B.m.a1()>>>8&255,B.m.a1()&255),e=A.m6(16)
+e=A.a5n(A.Yx(q.r,B.Je,B.d4),B.vg,new A.eS(f,p,p,e,p,p,B.bA),p,p,B.y_,1/0)
+f=q.e
+s=f?B.yA:B.yz
+f=f?"Stop":"Speak"
 r=t.nA
-return new A.tu(A.XZ(B.dd,A.d([n,m,A.a8x(A.a5j(l,A.a8h(A.a5n(A.a8L(A.d([f,B.uc,d,B.uc,A.a6g(A.d([new A.vv(s,e,q.gVv(),o),new A.vv(B.yy,"Copy",q.gP5(),o)],r),B.oL)],r),B.oM),o,new A.eS(i,o,g,h,o,o,B.bA),o,o,B.y1,j.a.a*0.85),k)),o,o)],r),B.hV),o)}}
+return new A.tu(A.XZ(B.dd,A.d([o,n,A.a8x(A.a5j(m,A.a8h(A.a5n(A.a8L(A.d([g,B.uc,e,B.uc,A.a6g(A.d([new A.vv(s,f,q.gVv(),p),new A.vv(B.yy,"Copy",q.gP5(),p)],r),B.oL)],r),B.oM),p,new A.eS(j,p,h,i,p,p,B.bA),p,p,B.y1,k.a.a*0.85),l)),p,p)],r),B.hV),p)}}
 A.a31.prototype={
 $1(a){return A.oR().$1("Speech Error: "+a.k(0))},
 $S:351}
